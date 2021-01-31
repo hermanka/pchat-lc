@@ -32,4 +32,4 @@ These terms and conditions are effective as of 2021-01-30
 
 **Contact Us**
 
-If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at pssndev@gmail.com.
+If you have any questions or suggestions about our Terms and Conditions, do not hesitate to contact us at pssndev[at]gmail.com.
