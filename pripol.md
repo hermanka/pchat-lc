@@ -61,4 +61,4 @@ This policy is effective as of 2021-01-30
 
 **Contact Us**
 
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at herman.kabetta(at)poltekssn.ac.id..
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at pssndev@gmail.com.
